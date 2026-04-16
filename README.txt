@@ -1,5 +1,4 @@
-Intakes different filetypes to run NLP analysis and provides analysis including sentiment scores, topic modeling, sentiment based topics, sentiment based summaries and visualizations.
-Main use case is for Excel spreadsheets with survey answers. Will run analysis on each column(question) separately.
+Intakes different filetypes to run NLP analysis and provides analysis including sentiment scores, topic modeling, sentiment based topics, sentiment based summaries and visualizations. Main use case is for Excel spreadsheets with survey answers. Will run analysis on each column(question) separately.
 
 Instructions:
 1. Download requirements
